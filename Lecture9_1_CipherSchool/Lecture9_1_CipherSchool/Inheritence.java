@@ -1,3 +1,4 @@
+package Lecture9_1_CipherSchool;
 class Shape{
     double pi = 3.14;
     double getSquare(int r){

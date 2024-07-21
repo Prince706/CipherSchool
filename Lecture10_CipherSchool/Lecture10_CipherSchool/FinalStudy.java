@@ -1,3 +1,5 @@
+
+package Lecture10_CipherSchool; 
 class A{
     final int noOfAplhabets = 26;//final varibale- Value once assigned cannot be changed
     final int noOfDigits;

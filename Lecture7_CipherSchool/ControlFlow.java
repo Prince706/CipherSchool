@@ -1,5 +1,5 @@
 
-
+package Lecture7_CipherSchool;
 public class ControlFlow {
 
     public static int findMax(int a, int b, int c) {
@@ -20,7 +20,7 @@ public class ControlFlow {
 
     public static void main(String[] args) {
         Student st = new Student();
-        st.name = "Yash";
+        st.name = "Prince";
         st.marks = 40;
         System.out.println(st.name + "\n" + st.checkPass());
 
