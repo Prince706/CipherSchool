@@ -1,5 +1,4 @@
-                    
-public class Main {
+public class Second {
     public static void main(String[] args) {
         int x = 5;
         int y = 7;
@@ -8,7 +7,7 @@ public class Main {
 
         byte b = 10;
         System.out.println("B is: "+ b);
-
+        
         byte b2 = 120;
         System.out.println("B2 is :"+b2);
 
